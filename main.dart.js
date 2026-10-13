@@ -99395,7 +99395,7 @@ ad(){return new A.a7h()},
 a1w(a){return this.r.$1(a)}}
 A.a7h.prototype={
 I(a){return A.n6(new A.aJD(this))},
-ab8(c7,c8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4=this,b5=null,b6="SESSION COMPLETE",b7="Save your progress",b8=u.v,b9={},c0=b4.a.e,c1=b4.gf5(),c2=c1.bA($.hu(),t.qx),c3=c1.bA($.Ao(),t.V8),c4=c1.bA($.aP2(),t.xk),c5=c1.bA($.v9(),t.Yu),c6=t.N
+ab8(c7,c8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5=this,b6=null,b7="SESSION COMPLETE",b8="Save your progress",b9={},c0=b5.a.e,c1=b5.gf5(),c2=c1.bA($.hu(),t.qx),c3=c1.bA($.Ao(),t.V8),c4=c1.bA($.aP2(),t.xk),c5=c1.bA($.v9(),t.Yu),c6=t.N
 c6=A.A(c6,c6)
 for(c1=c1.bA($.kT(),t.Rb).ER(),s=c1.length,r=0;r<c1.length;c1.length===s||(0,A.F)(c1),++r){q=c1[r]
 c6.n(0,q.a.toLowerCase(),q.b)}c1=J.cw(c5)
@@ -99408,94 +99408,95 @@ break}}j=c1.i0(c5,new A.aJl(c2)).gG(0)
 i=c1.i0(c5,new A.aJm()).gG(0)
 if(!c2.d){c1=b9.a
 h=c1!=null&&!c1.r&&j>=i}else h=!1
+g=j>=i?"Keep your streak on any device.":u.v
 c1=A.aP(24)
-s=b4.a
+s=b5.a
 s=s.f?B.d.bP(c8-80-(291+c0.w.length*52),200,400):s.d
 o=A.b([B.j.bd(0),B.j.bd(0.92)],t.O)
 n=t.Y
 k=t.i
-g=A.Z_(new A.aJu(),A.aL(b5,B.Sz,B.m,b5,b5,B.i4,b5,56,b5,b5,b5,b5,b5,56),B.pr,B.qK,new A.as(0.4,1,n),k)
-f=A.N(b6,b5,b5,b5,b5,b5,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.P,11.5,B.E,1.2),b5,b5)
-e=c0.d
-d=t.p
-c=A.aL(b5,new A.kv(c0,A.aL(B.p1,A.aG(A.b([g,B.eu,A.bj(A.ah(A.b([f,B.cV,A.N(e,b5,b5,b5,b5,b5,A.cp().$4$color$fontSize$fontWeight$height(B.u,b4.a.f?34:28,B.w,1.1),b5,b5)],d),B.G,B.f,B.U),1)],d),B.dx,B.f,B.i,0),B.m,b5,b5,new A.aN(b5,b5,b5,b5,b5,new A.dD(B.c3,B.cp,B.ao,o,B.a0n,b5),b5,B.y),b5,b5,b5,b5,B.QO,b5,b5,b5),b5),B.ch,b5,b5,new A.aN(b5,b5,b5,c1,b5,b5,b5,B.y),b5,s,b5,b5,b5,b5,b5,b5)
+f=A.Z_(new A.aJu(),A.aL(b6,B.Sz,B.m,b6,b6,B.i4,b6,56,b6,b6,b6,b6,b6,56),B.pr,B.qK,new A.as(0.4,1,n),k)
+e=A.N(b7,b6,b6,b6,b6,b6,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.P,11.5,B.E,1.2),b6,b6)
+d=c0.d
+c=t.p
+b=A.aL(b6,new A.kv(c0,A.aL(B.p1,A.aG(A.b([f,B.eu,A.bj(A.ah(A.b([e,B.cV,A.N(d,b6,b6,b6,b6,b6,A.cp().$4$color$fontSize$fontWeight$height(B.u,b5.a.f?34:28,B.w,1.1),b6,b6)],c),B.G,B.f,B.U),1)],c),B.dx,B.f,B.i,0),B.m,b6,b6,new A.aN(b6,b6,b6,b6,b6,new A.dD(B.c3,B.cp,B.ao,o,B.a0n,b6),b6,B.y),b6,b6,b6,b6,B.QO,b6,b6,b6),b6),B.ch,b6,b6,new A.aN(b6,b6,b6,c1,b6,b6,b6,B.y),b6,s,b6,b6,b6,b6,b6,b6)
 s=A.aP(24)
 c1=A.dA(B.am,1)
-b=c0.w
-o=A.b([A.N("YOU LEARNED "+b.length+" WORDS",b5,b5,b5,b5,b5,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.ad,11.5,B.E,1.2),b5,b5),B.bc],d)
-for(g=b.length,r=0;r<b.length;b.length===g||(0,A.F)(b),++r){q=b[r]
-f=new A.aI(16,16)
-a=A.N(q,b5,b5,b5,b5,b5,A.cp().$4$color$fontSize$fontWeight$height(B.u,24,B.w,1.1),b5,b5)
-a0=c6.i(0,q.toLowerCase())
-if(a0==null)a0=""
-a0=A.b([new A.iy(1,B.cs,A.ah(A.b([a,A.N(a0,b5,b5,b5,b5,b5,A.aj().$3$color$fontSize$height(B.ad,13.5,1.35),b5,b5)],d),B.G,B.f,B.i),b5)],d)
-if(A.aaQ(c0,q)!=null)a0.push(A.GT(B.rE,B.ais,new A.aJv(b4,c0,q),A.kB(b5,b5,b5,b5,b5,b5,b5,b5,b5,B.P,b5,b5,b5,b5,b5,b5,b5,b5,b5,b5)))
-o.push(new A.aW(B.iE,A.aL(b5,A.aG(a0,B.o,B.f,B.i,0),B.m,b5,b5,new A.aN(B.cr,b5,b5,new A.cs(f,f,f,f),b5,b5,b5,B.y),b5,b5,b5,b5,B.Qv,b5,b5,b5),b5))}o.push(B.cV)
-o.push(A.aQ2(B.SE,B.Jf,new A.aJw(c7,c0),A.k5(b5,b5,b5,b5,B.acA,b5,b5,b5,b5)))
-a1=A.aL(b5,A.ah(o,B.N,B.f,B.i),B.m,b5,b5,new A.aN(B.j,b5,c1,s,b5,b5,b5,B.y),b5,b5,b5,b5,B.d4,b5,b5,b5)
-a2=c3.gNA()
-a3=new A.aJC()
+a=c0.w
+o=A.b([A.N("YOU LEARNED "+a.length+" WORDS",b6,b6,b6,b6,b6,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.ad,11.5,B.E,1.2),b6,b6),B.bc],c)
+for(f=a.length,r=0;r<a.length;a.length===f||(0,A.F)(a),++r){q=a[r]
+e=new A.aI(16,16)
+a0=A.N(q,b6,b6,b6,b6,b6,A.cp().$4$color$fontSize$fontWeight$height(B.u,24,B.w,1.1),b6,b6)
+a1=c6.i(0,q.toLowerCase())
+if(a1==null)a1=""
+a1=A.b([new A.iy(1,B.cs,A.ah(A.b([a0,A.N(a1,b6,b6,b6,b6,b6,A.aj().$3$color$fontSize$height(B.ad,13.5,1.35),b6,b6)],c),B.G,B.f,B.i),b6)],c)
+if(A.aaQ(c0,q)!=null)a1.push(A.GT(B.rE,B.ais,new A.aJv(b5,c0,q),A.kB(b6,b6,b6,b6,b6,b6,b6,b6,b6,B.P,b6,b6,b6,b6,b6,b6,b6,b6,b6,b6)))
+o.push(new A.aW(B.iE,A.aL(b6,A.aG(a1,B.o,B.f,B.i,0),B.m,b6,b6,new A.aN(B.cr,b6,b6,new A.cs(e,e,e,e),b6,b6,b6,B.y),b6,b6,b6,b6,B.Qv,b6,b6,b6),b6))}o.push(B.cV)
+o.push(A.aQ2(B.SE,B.Jf,new A.aJw(c7,c0),A.k5(b6,b6,b6,b6,B.acA,b6,b6,b6,b6)))
+a2=A.aL(b6,A.ah(o,B.N,B.f,B.i),B.m,b6,b6,new A.aN(B.j,b6,c1,s,b6,b6,b6,B.y),b6,b6,b6,b6,B.d4,b6,b6,b6)
+a3=c3.gNA()
+a4=new A.aJC()
 c1=A.aP(24)
 s=A.dA(B.am,1)
-o=A.aL(b5,B.Sy,B.m,b5,b5,B.lu,b5,42,b5,b5,b5,b5,b5,42)
-g=c2.b
-o=a3.$3(o,""+(g<1?1:g)+"-day streak","Today counts")
-g=a3.$3(A.bD(A.eF(B.bP,A.b([A.Bj(B.ai,B.D,b5,4,B.d.bP(a2/10,0,1)),A.dj(A.N(""+B.d.dr(a2),b5,b5,b5,b5,b5,A.aj().$2$color$fontWeight(B.u,B.E),b5,b5),b5,b5)],d),B.O,B.IM,b5),42,42),"Today\u2019s goal",""+B.d.dr(a2)+" of 10 min")
-f=A.bD(A.jd(A.aP(99),A.Te(B.ai,B.D,7,c4.e)),b5,80)
-a=c4.b
-a=a==null?"Top level reached":""+c4.d+" min to "+a
-a4=A.aL(b5,A.aG(A.b([o,g,a3.$3(f,"Level "+c4.a,a)],d),B.G,B.f,B.i,0),B.m,b5,b5,new A.aN(B.j,b5,s,c1,b5,b5,b5,B.y),b5,b5,b5,b5,B.Qr,b5,b5,b5)
+o=A.aL(b6,B.Sy,B.m,b6,b6,B.lu,b6,42,b6,b6,b6,b6,b6,42)
+f=c2.b
+o=a4.$3(o,""+(f<1?1:f)+"-day streak","Today counts")
+f=a4.$3(A.bD(A.eF(B.bP,A.b([A.Bj(B.ai,B.D,b6,4,B.d.bP(a3/10,0,1)),A.dj(A.N(""+B.d.dr(a3),b6,b6,b6,b6,b6,A.aj().$2$color$fontWeight(B.u,B.E),b6,b6),b6,b6)],c),B.O,B.IM,b6),42,42),"Today\u2019s goal",""+B.d.dr(a3)+" of 10 min")
+e=A.bD(A.jd(A.aP(99),A.Te(B.ai,B.D,7,c4.e)),b6,80)
+a0=c4.b
+a0=a0==null?"Top level reached":""+c4.d+" min to "+a0
+a5=A.aL(b6,A.aG(A.b([o,f,a4.$3(e,"Level "+c4.a,a0)],c),B.G,B.f,B.i,0),B.m,b6,b6,new A.aN(B.j,b6,s,c1,b6,b6,b6,B.y),b6,b6,b6,b6,B.Qr,b6,b6,b6)
 if(h){c1=A.aP(24)
-s=A.aG(A.b([B.T4,B.cT,A.N("NEXT \xb7 PREMIUM",b5,b5,b5,b5,b5,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.dv,11.5,B.E,1.2),b5,b5)],d),B.o,B.f,B.i,0)
+s=A.aG(A.b([B.T4,B.cT,A.N("NEXT \xb7 PREMIUM",b6,b6,b6,b6,b6,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.dv,11.5,B.E,1.2),b6,b6)],c),B.o,B.f,B.i,0)
 o=A.aP(14)
-g=b9.a
-o=A.jd(o,A.bD(new A.kv(g,b5,b5),64,64))
-g=A.N(g.d,b5,b5,b5,b5,b5,A.cp().$4$color$fontSize$fontWeight$height(B.u,24,B.w,1.1),b5,b5)
-f=A.b_2(b9.a)
-a=b9.a
-a0=a.w.length
-a=a.e
-a5=A.bo("\\s*\\((Premium|premium)\\)\\s*",!0,!1,!1)
-a6=A.aL(b5,A.ah(A.b([s,B.bc,A.aG(A.b([o,B.eu,A.bj(A.ah(A.b([g,A.N(f+" \xb7 "+a0+" words \xb7 "+B.c.e1(A.eK(a,a5,"")),b5,b5,b5,b5,b5,A.aj().$3$color$fontSize$height(B.ad,13,1.35),b5,b5)],d),B.G,B.f,B.i),1)],d),B.o,B.f,B.i,0),B.aU,A.N("You\u2019ve finished both free sessions. Premium unlocks this one and every session after it.",b5,b5,b5,b5,b5,A.aj().$3$color$fontSize$height(B.u,13.5,1.45),b5,b5),B.aU,A.h9(!1,B.aii,B.m,b5,b5,b5,b5,b5,new A.aJx(c7),b5,A.k5(B.dv,b5,b5,b5,B.acz,b5,b5,b5,b5))],d),B.N,B.f,B.i),B.m,b5,b5,new A.aN(b5,b5,b5,c1,b5,B.rV,b5,B.y),b5,b5,b5,b5,B.h0,b5,b5,b5)}else{c1=b9.a
+f=b9.a
+o=A.jd(o,A.bD(new A.kv(f,b6,b6),64,64))
+f=A.N(f.d,b6,b6,b6,b6,b6,A.cp().$4$color$fontSize$fontWeight$height(B.u,24,B.w,1.1),b6,b6)
+e=A.b_2(b9.a)
+a0=b9.a
+a1=a0.w.length
+a0=a0.e
+a6=A.bo("\\s*\\((Premium|premium)\\)\\s*",!0,!1,!1)
+a7=A.aL(b6,A.ah(A.b([s,B.bc,A.aG(A.b([o,B.eu,A.bj(A.ah(A.b([f,A.N(e+" \xb7 "+a1+" words \xb7 "+B.c.e1(A.eK(a0,a6,"")),b6,b6,b6,b6,b6,A.aj().$3$color$fontSize$height(B.ad,13,1.35),b6,b6)],c),B.G,B.f,B.i),1)],c),B.o,B.f,B.i,0),B.aU,A.N("You\u2019ve finished both free sessions. Premium unlocks this one and every session after it.",b6,b6,b6,b6,b6,A.aj().$3$color$fontSize$height(B.u,13.5,1.45),b6,b6),B.aU,A.h9(!1,B.aii,B.m,b6,b6,b6,b6,b6,new A.aJx(c7),b6,A.k5(B.dv,b6,b6,b6,B.acz,b6,b6,b6,b6))],c),B.N,B.f,B.i),B.m,b6,b6,new A.aN(b6,b6,b6,c1,b6,B.rV,b6,B.y),b6,b6,b6,b6,B.h0,b6,b6,b6)}else{c1=b9.a
 if(c1!=null&&c1.r){c1=A.aP(24)
 s=A.dA(B.am,1)
-o=A.N("UP NEXT \xb7 TOMORROW",b5,b5,b5,b5,b5,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.ad,11.5,B.E,1.2),b5,b5)
-g=A.aP(14)
-f=b9.a
-a6=A.aL(b5,A.ah(A.b([o,B.bc,A.aG(A.b([A.jd(g,A.bD(new A.kv(f,b5,b5),64,64)),B.eu,A.bj(A.ah(A.b([A.N(f.d,b5,b5,b5,b5,b5,A.cp().$4$color$fontSize$fontWeight$height(B.u,24,B.w,1.1),b5,b5),A.N(A.b_2(b9.a)+" \xb7 "+b9.a.w.length+" words \xb7 Free",b5,b5,b5,b5,b5,A.aj().$2$color$fontSize(B.ad,13),b5,b5)],d),B.G,B.f,B.i),1)],d),B.o,B.f,B.i,0),B.ap,A.N("Come back tomorrow to keep your streak, or start now.",b5,b5,b5,b5,b5,A.aj().$2$color$fontSize(B.ad,13.5),b5,b5),B.bc,A.aQS(B.rG,B.aiA,new A.aJy(b9,c7),A.aQT(b5,b5,b5,b5,b5,b5,b5,b5,b5,b5,b5,B.IC,b5,b5,b5,b5,b5,b5,b5,b5))],d),B.N,B.f,B.i),B.m,b5,b5,new A.aN(B.j,b5,s,c1,b5,b5,b5,B.y),b5,b5,b5,b5,B.h0,b5,b5,b5)}else a6=B.aD}c1=c2.f
-if(c1)a7=A.aG(A.b([B.SS,B.dd,A.bj(A.N("Progress saved to your account.",b5,b5,b5,b5,b5,A.aj().$2$color$fontSize(B.ad,13.5),b5,b5),1)],d),B.o,B.f,B.i,0)
-else if(b4.x)a7=B.aD
+o=A.N("UP NEXT \xb7 TOMORROW",b6,b6,b6,b6,b6,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.ad,11.5,B.E,1.2),b6,b6)
+f=A.aP(14)
+e=b9.a
+a7=A.aL(b6,A.ah(A.b([o,B.bc,A.aG(A.b([A.jd(f,A.bD(new A.kv(e,b6,b6),64,64)),B.eu,A.bj(A.ah(A.b([A.N(e.d,b6,b6,b6,b6,b6,A.cp().$4$color$fontSize$fontWeight$height(B.u,24,B.w,1.1),b6,b6),A.N(A.b_2(b9.a)+" \xb7 "+b9.a.w.length+" words \xb7 Free",b6,b6,b6,b6,b6,A.aj().$2$color$fontSize(B.ad,13),b6,b6)],c),B.G,B.f,B.i),1)],c),B.o,B.f,B.i,0),B.ap,A.N("Come back tomorrow to keep your streak, or start now.",b6,b6,b6,b6,b6,A.aj().$2$color$fontSize(B.ad,13.5),b6,b6),B.bc,A.aQS(B.rG,B.aiA,new A.aJy(b9,c7),A.aQT(b6,b6,b6,b6,b6,b6,b6,b6,b6,b6,b6,B.IC,b6,b6,b6,b6,b6,b6,b6,b6))],c),B.N,B.f,B.i),B.m,b6,b6,new A.aN(B.j,b6,s,c1,b6,b6,b6,B.y),b6,b6,b6,b6,B.h0,b6,b6,b6)}else a7=B.aD}c1=c2.f
+if(c1)a8=A.aG(A.b([B.SS,B.dd,A.bj(A.N("Progress saved to your account.",b6,b6,b6,b6,b6,A.aj().$2$color$fontSize(B.ad,13.5),b6,b6),1)],c),B.o,B.f,B.i,0)
+else if(b5.x)a8=B.aD
 else{s=A.aP(24)
 o=A.dA(B.am,1)
-a7=A.aL(b5,A.ah(A.b([A.aG(A.b([A.bj(A.N(b7,b5,b5,b5,b5,b5,A.cp().$4$color$fontSize$fontWeight$height(B.u,24,B.w,1.1),b5,b5),1),A.mY(b5,b5,B.SV,b5,b5,new A.aJz(b4),b5,b5,"Not now")],d),B.o,B.f,B.i,0),A.N("Keep your streak and saved words on any device.",b5,b5,b5,b5,b5,A.aj().$2$color$fontSize(B.ad,13.5),b5,b5),B.aU,A.aG(A.b([A.bj(A.apF(B.Je,new A.aJA(c7),b5),1),B.cB,A.bj(A.apF(B.aiD,new A.aJB(c7),b5),1)],d),B.o,B.f,B.i,0),B.bc,A.N(b8,b5,b5,b5,b5,b5,A.aj().$2$color$fontSize(B.ad,12.5),B.b0,b5)],d),B.N,B.f,B.i),B.m,b5,b5,new A.aN(B.j,b5,o,s,b5,b5,b5,B.y),b5,b5,b5,b5,B.h0,b5,b5,b5)}a8=A.jD(!1,B.oq,b5,b5,b5,b5,b5,b5,new A.aJn(c7),b5,b5)
-s=b4.a
-if(s.f)return A.nJ(A.dj(new A.dd(B.Lb,A.ah(A.b([c,B.fq,A.aG(A.b([A.bj(A.ah(A.b([a1,B.bJ,a4],d),B.N,B.f,B.i),6),B.acD,A.bj(A.ah(A.b([a6,B.bJ,a7,a8],d),B.N,B.f,B.i),5)],d),B.G,B.f,B.i,0)],d),B.N,B.f,B.i),b5),b5,b5),B.QY)
+a8=A.aL(b6,A.ah(A.b([A.aG(A.b([A.bj(A.N(b8,b6,b6,b6,b6,b6,A.cp().$4$color$fontSize$fontWeight$height(B.u,24,B.w,1.1),b6,b6),1),A.mY(b6,b6,B.SV,b6,b6,new A.aJz(b5),b6,b6,"Not now")],c),B.o,B.f,B.i,0),A.N("Keep your streak and saved words on any device.",b6,b6,b6,b6,b6,A.aj().$2$color$fontSize(B.ad,13.5),b6,b6),B.aU,A.aG(A.b([A.bj(A.apF(B.Je,new A.aJA(c7),b6),1),B.cB,A.bj(A.apF(B.aiD,new A.aJB(c7),b6),1)],c),B.o,B.f,B.i,0),B.bc,A.N(g,b6,b6,b6,b6,b6,A.aj().$2$color$fontSize(B.ad,12.5),B.b0,b6)],c),B.N,B.f,B.i),B.m,b6,b6,new A.aN(B.j,b6,o,s,b6,b6,b6,B.y),b6,b6,b6,b6,B.h0,b6,b6,b6)}a9=A.jD(!1,B.oq,b6,b6,b6,b6,b6,b6,new A.aJn(c7),b6,b6)
+s=b5.a
+if(s.f)return A.nJ(A.dj(new A.dd(B.Lb,A.ah(A.b([b,B.fq,A.aG(A.b([A.bj(A.ah(A.b([a2,B.bJ,a5],c),B.N,B.f,B.i),6),B.acD,A.bj(A.ah(A.b([a7,B.bJ,a8,a9],c),B.N,B.f,B.i),5)],c),B.G,B.f,B.i,0)],c),B.N,B.f,B.i),b6),b6,b6),B.QY)
 s=s.d
-a9=s>200?32:16
+b0=s>200?32:16
 if(s<=200){s=A.aP(24)
 o=A.dA(B.am,1)
-b0=A.aL(b5,A.ah(A.b([A.bD(new A.kv(c0,b5,b5),84,b5),new A.aW(B.QA,A.aG(A.b([A.Z_(new A.aJo(),A.aL(b5,B.SJ,B.m,b5,b5,B.i4,b5,46,b5,b5,b5,b5,b5,46),B.pr,B.qK,new A.as(0.4,1,n),k),B.by,A.bj(A.ah(A.b([A.N(b6,b5,b5,b5,b5,b5,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.P,11.5,B.E,1.2),b5,b5),B.ev,A.N(e,b5,b5,b5,b5,b5,A.cp().$4$color$fontSize$fontWeight$height(B.u,23,B.w,1.1),b5,b5)],d),B.G,B.f,B.i),1)],d),B.o,B.f,B.i,0),b5)],d),B.N,B.f,B.i),B.ch,b5,b5,new A.aN(B.j,b5,o,s,b5,b5,b5,B.y),b5,b5,b5,b5,b5,b5,b5,b5)
-b1=b4.w?b:A.eY(b,0,A.jT(2,"count",t.S),A.W(b).c).eD(0)
+b1=A.aL(b6,A.ah(A.b([A.bD(new A.kv(c0,b6,b6),84,b6),new A.aW(B.QA,A.aG(A.b([A.Z_(new A.aJo(),A.aL(b6,B.SJ,B.m,b6,b6,B.i4,b6,46,b6,b6,b6,b6,b6,46),B.pr,B.qK,new A.as(0.4,1,n),k),B.by,A.bj(A.ah(A.b([A.N(b7,b6,b6,b6,b6,b6,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.P,11.5,B.E,1.2),b6,b6),B.ev,A.N(d,b6,b6,b6,b6,b6,A.cp().$4$color$fontSize$fontWeight$height(B.u,23,B.w,1.1),b6,b6)],c),B.G,B.f,B.i),1)],c),B.o,B.f,B.i,0),b6)],c),B.N,B.f,B.i),B.ch,b6,b6,new A.aN(B.j,b6,o,s,b6,b6,b6,B.y),b6,b6,b6,b6,b6,b6,b6,b6)
+b2=b5.w?a:A.eY(a,0,A.jT(2,"count",t.S),A.W(a).c).eD(0)
 s=A.aP(24)
 o=A.dA(B.am,1)
-n=A.b([A.N("YOU LEARNED "+b.length+" WORDS",b5,b5,b5,b5,b5,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.ad,11.5,B.E,1.2),b5,b5),B.ap],d)
-for(k=b1.length,r=0;r<b1.length;b1.length===k||(0,A.F)(b1),++r){q=b1[r]
-g=new A.aI(14,14)
-f=A.N(q,b5,b5,b5,b5,b5,A.cp().$4$color$fontSize$fontWeight$height(B.u,21,B.w,1.1),b5,b5)
-e=c6.i(0,q.toLowerCase())
-if(e==null)e=""
-e=A.b([new A.iy(1,B.cs,A.ah(A.b([f,A.N(e,b5,2,B.aq,b5,b5,A.aj().$3$color$fontSize$height(B.ad,13,1.3),b5,b5)],d),B.G,B.f,B.i),b5)],d)
-if(A.aaQ(c0,q)!=null)e.push(A.mY(B.P,b5,B.rF,b5,b5,new A.aJp(b4,c0,q),b5,b5,"Listen again"))
-n.push(new A.aW(B.qO,A.aL(b5,A.aG(e,B.o,B.f,B.i,0),B.m,b5,b5,new A.aN(B.cr,b5,b5,new A.cs(g,g,g,g),b5,b5,b5,B.y),b5,b5,b5,b5,B.Qt,b5,b5,b5),b5))}c6=A.b([],d)
-if(b.length>2){k=A.kB(b5,b5,b5,b5,b5,b5,b5,b5,b5,B.P,b5,b5,b5,b5,b5,b5,b5,b5,b5,b5)
-c6.push(A.jD(!1,A.N(b4.w?"Show fewer":"Show all "+b.length,b5,b5,b5,b5,b5,b5,b5,b5),b5,b5,b5,b5,b5,b5,new A.aJq(b4),b5,k))}c6.push(B.ay)
-c6.push(A.aQ2(B.rI,B.aiz,new A.aJr(c7,c0),A.k5(b5,b5,b5,b5,B.acm,b5,b5,b5,b5)))
+n=A.b([A.N("YOU LEARNED "+a.length+" WORDS",b6,b6,b6,b6,b6,A.aj().$4$color$fontSize$fontWeight$letterSpacing(B.ad,11.5,B.E,1.2),b6,b6),B.ap],c)
+for(k=b2.length,r=0;r<b2.length;b2.length===k||(0,A.F)(b2),++r){q=b2[r]
+f=new A.aI(14,14)
+e=A.N(q,b6,b6,b6,b6,b6,A.cp().$4$color$fontSize$fontWeight$height(B.u,21,B.w,1.1),b6,b6)
+d=c6.i(0,q.toLowerCase())
+if(d==null)d=""
+d=A.b([new A.iy(1,B.cs,A.ah(A.b([e,A.N(d,b6,2,B.aq,b6,b6,A.aj().$3$color$fontSize$height(B.ad,13,1.3),b6,b6)],c),B.G,B.f,B.i),b6)],c)
+if(A.aaQ(c0,q)!=null)d.push(A.mY(B.P,b6,B.rF,b6,b6,new A.aJp(b5,c0,q),b6,b6,"Listen again"))
+n.push(new A.aW(B.qO,A.aL(b6,A.aG(d,B.o,B.f,B.i,0),B.m,b6,b6,new A.aN(B.cr,b6,b6,new A.cs(f,f,f,f),b6,b6,b6,B.y),b6,b6,b6,b6,B.Qt,b6,b6,b6),b6))}c6=A.b([],c)
+if(a.length>2){k=A.kB(b6,b6,b6,b6,b6,b6,b6,b6,b6,B.P,b6,b6,b6,b6,b6,b6,b6,b6,b6,b6)
+c6.push(A.jD(!1,A.N(b5.w?"Show fewer":"Show all "+a.length,b6,b6,b6,b6,b6,b6,b6,b6),b6,b6,b6,b6,b6,b6,new A.aJq(b5),b6,k))}c6.push(B.ay)
+c6.push(A.aQ2(B.rI,B.aiz,new A.aJr(c7,c0),A.k5(b6,b6,b6,b6,B.acm,b6,b6,b6,b6)))
 n.push(A.aG(c6,B.o,B.f,B.i,0))
-b2=A.aL(b5,A.ah(n,B.N,B.f,B.i),B.m,b5,b5,new A.aN(B.j,b5,o,s,b5,b5,b5,B.y),b5,b5,b5,b5,B.mb,b5,b5,b5)
-if(!c1&&!b4.x){c1=A.aP(24)
+b3=A.aL(b6,A.ah(n,B.N,B.f,B.i),B.m,b6,b6,new A.aN(B.j,b6,o,s,b6,b6,b6,B.y),b6,b6,b6,b6,B.mb,b6,b6,b6)
+if(!c1&&!b5.x){c1=A.aP(24)
 c6=A.dA(B.am,1)
-b3=A.aL(b5,A.aG(A.b([B.SA,B.cB,A.bj(A.ah(A.b([A.N(b7,b5,b5,b5,b5,b5,A.aj().$3$color$fontSize$fontWeight(B.u,14.5,B.E),b5,b5),A.N(b8,b5,2,b5,b5,b5,A.aj().$3$color$fontSize$height(B.ad,12,1.25),b5,b5)],d),B.G,B.f,B.i),1),A.h9(!1,B.aik,B.m,b5,b5,b5,b5,b5,new A.aJs(c7),b5,A.k5(b5,b5,b5,b5,B.acl,B.qS,b5,b5,b5)),A.mY(b5,b5,B.Su,b5,b5,new A.aJt(b4),b5,b5,"Not now")],d),B.o,B.f,B.i,0),B.m,b5,b5,new A.aN(B.j,b5,c6,c1,b5,b5,b5,B.y),b5,b5,b5,b5,B.qQ,b5,b5,b5)}else b3=a7
-return A.al9(A.b([b0,B.aU,b2,B.aU,a6,B.aU,b3,B.aU,a4,B.ap,a8],d),B.Qy)}return A.al9(A.b([c,B.bZ,a4,B.bZ,a6,B.bZ,a1,B.bZ,a7,a8],d),new A.Z(a9,0,a9,24))}}
+b4=A.aL(b6,A.aG(A.b([B.SA,B.cB,A.bj(A.ah(A.b([A.N(b8,b6,b6,b6,b6,b6,A.aj().$3$color$fontSize$fontWeight(B.u,14.5,B.E),b6,b6),A.N(g,b6,2,b6,b6,b6,A.aj().$3$color$fontSize$height(B.ad,12,1.25),b6,b6)],c),B.G,B.f,B.i),1),A.h9(!1,B.aik,B.m,b6,b6,b6,b6,b6,new A.aJs(c7),b6,A.k5(b6,b6,b6,b6,B.acl,B.qS,b6,b6,b6)),A.mY(b6,b6,B.Su,b6,b6,new A.aJt(b5),b6,b6,"Not now")],c),B.o,B.f,B.i,0),B.m,b6,b6,new A.aN(B.j,b6,c6,c1,b6,b6,b6,B.y),b6,b6,b6,b6,B.qQ,b6,b6,b6)}else b4=a8
+return A.al9(A.b([b1,B.aU,b3,B.aU,a7,B.aU,b4,B.aU,a5,B.ap,a9],c),B.Qy)}return A.al9(A.b([b,B.bZ,a5,B.bZ,a7,B.bZ,a2,B.bZ,a8,a9],c),new A.Z(b0,0,b0,24))}}
 A.aJD.prototype={
 $2(a,b){return this.a.ab8(a,b.d)},
 $S:97}
