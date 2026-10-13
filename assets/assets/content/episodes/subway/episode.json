@@ -1,0 +1,69 @@
+{
+  "id": "e8c4ec8f-539a-4cf5-84e7-5458f44db7e6",
+  "slug": "subway-vocabulary",
+  "title": "Subway Vocabulary",
+  "summary": "Everyday subway words: stand, approach, slow down, get off.",
+  "durationSeconds": 343,
+  "access": "free",
+  "published": true,
+  "number": 2,
+  "script": "Imagine that you’re going to take the subway, and you're standing at the entrance of a subway station\n\nTo stand means to be on your feet, in a vertical position.\nYou can hear people walking, distant conversations, announcements and trains moving somewhere below you. \nTake a deep breath in and begin walking down the stairs.\nBreathe out, and now you are at the platform.\nThe platform is the area where you stand and wait for the train.\nIn the distance, you hear the train approaching.\n\n\nApproaching means coming closer.\nThe train finally arrives.\nThe doors open. You hear an announcement telling passengers to board the train.\n\nTo board means to get on a train, plane, bus, or other form of transportation.\nYou step inside and the doors close behind you.\nYou look above the doors and see a map showing all the stops on your route.\nYour stop isn’t the next one. You still have some time, so relax your shoulders.\nThe train moves through the tunnel.\n\nTo move through something means to travel, pass, or progress from one side, stage, or point of something to another.\nListen. You can hear the wheels moving along the tracks while the train begins to slow down.\n\nTo slow down means to start moving more slowly.\nThe doors open. This is your stop. You get off the train and step back onto the platform.\nTo get off means to leave the train.\nHave a good rest of your day.",
+  "vocabulary": [
+    {
+      "word": "to stand",
+      "definition": "to be on your feet, in a vertical position"
+    },
+    {
+      "word": "to approach",
+      "definition": "to come closer to someone or something"
+    },
+    {
+      "word": "to slow down",
+      "definition": "to start moving more slowly"
+    },
+    {
+      "word": "to get off",
+      "definition": "to leave a train, bus, plane, or other form of transportation"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "sentence": "You wait on your feet at the platform. You need _____.",
+      "options": [
+        "to stand",
+        "to get off"
+      ],
+      "correctAnswer": "to stand"
+    },
+    {
+      "id": "ex2",
+      "sentence": "The train is coming closer to the station. It is beginning _____.",
+      "options": [
+        "to slow down",
+        "to approach"
+      ],
+      "correctAnswer": "to approach"
+    },
+    {
+      "id": "ex3",
+      "sentence": "The train is starting to move more slowly. It is beginning _____.",
+      "options": [
+        "to slow down",
+        "to stand"
+      ],
+      "correctAnswer": "to slow down"
+    },
+    {
+      "id": "ex4",
+      "sentence": "This is your stop. The doors open, and it is time _____ the train.",
+      "options": [
+        "to approach",
+        "to get off"
+      ],
+      "correctAnswer": "to get off"
+    }
+  ],
+  "audioAsset": "assets/content/episodes/subway/audio.mp3",
+  "coverAsset": "assets/images/covers/subway.webp"
+}
