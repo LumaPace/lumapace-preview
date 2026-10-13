@@ -1,0 +1,152 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 234,
+ "scriptWords": 246,
+ "cues": [
+  {
+   "start": 5.87,
+   "end": 9.94,
+   "text": "Imagine that you\u2019re going to take the subway,"
+  },
+  {
+   "start": 9.79,
+   "end": 20.46,
+   "text": "and you're standing at the entrance of a subway station"
+  },
+  {
+   "start": 20.31,
+   "end": 33.62,
+   "text": "To stand means to be on your feet, in a vertical position."
+  },
+  {
+   "start": 33.47,
+   "end": 40.48,
+   "text": "You can hear people walking, distant conversations,"
+  },
+  {
+   "start": 40.33,
+   "end": 52.48,
+   "text": "announcements and trains moving somewhere below you."
+  },
+  {
+   "start": 52.33,
+   "end": 67.94,
+   "text": "Take a deep breath in and begin walking down the stairs."
+  },
+  {
+   "start": 67.79,
+   "end": 81.22,
+   "text": "Breathe out, and now you are at the platform."
+  },
+  {
+   "start": 81.07,
+   "end": 91.34,
+   "text": "The platform is the area where you stand and wait for the train."
+  },
+  {
+   "start": 91.19,
+   "end": 106.16,
+   "text": "In the distance, you hear the train approaching."
+  },
+  {
+   "start": 106.01,
+   "end": 117.5,
+   "text": "Approaching means coming closer."
+  },
+  {
+   "start": 117.35,
+   "end": 118.04,
+   "text": "The train finally arrives."
+  },
+  {
+   "start": 117.89,
+   "end": 120.52,
+   "text": "The doors open."
+  },
+  {
+   "start": 120.37,
+   "end": 142.92,
+   "text": "You hear an announcement telling passengers to board the train."
+  },
+  {
+   "start": 142.77,
+   "end": 157.28,
+   "text": "To board means to get on a train, plane, bus, or other form of transportation."
+  },
+  {
+   "start": 157.13,
+   "end": 168.08,
+   "text": "You step inside and the doors close behind you."
+  },
+  {
+   "start": 167.93,
+   "end": 186.72,
+   "text": "You look above the doors and see a map showing all the stops on your route."
+  },
+  {
+   "start": 186.57,
+   "end": 190.82,
+   "text": "Your stop isn\u2019t the next one."
+  },
+  {
+   "start": 190.67,
+   "end": 206.8,
+   "text": "You still have some time, so relax your shoulders."
+  },
+  {
+   "start": 206.65,
+   "end": 230.6,
+   "text": "The train moves through the tunnel."
+  },
+  {
+   "start": 230.45,
+   "end": 242.16,
+   "text": "To move through something means to travel, pass, or progress from one side, stage,"
+  },
+  {
+   "start": 242.01,
+   "end": 246.7,
+   "text": "or point of something to another."
+  },
+  {
+   "start": 246.55,
+   "end": 248.26,
+   "text": "Listen."
+  },
+  {
+   "start": 248.11,
+   "end": 284.22,
+   "text": "You can hear the wheels moving along the tracks while the train begins to slow down."
+  },
+  {
+   "start": 284.07,
+   "end": 294.38,
+   "text": "To slow down means to start moving more slowly."
+  },
+  {
+   "start": 294.23,
+   "end": 297.62,
+   "text": "The doors open."
+  },
+  {
+   "start": 297.47,
+   "end": 300.4,
+   "text": "This is your stop."
+  },
+  {
+   "start": 300.25,
+   "end": 315.04,
+   "text": "You get off the train and step back onto the platform."
+  },
+  {
+   "start": 314.89,
+   "end": 332.92,
+   "text": "To get off means to leave the train."
+  },
+  {
+   "start": 332.77,
+   "end": 343.0,
+   "text": "Have a good rest of your day."
+  }
+ ]
+}
