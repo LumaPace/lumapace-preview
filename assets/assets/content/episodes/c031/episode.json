@@ -77,5 +77,7 @@
  "audioAsset": null,
  "sourceAudio": "assets/content/episodes/c031/audio.mp3",
  "audioMd5": "656e26da485eb2bb5e387d763d488420",
- "source": "Google Drive FINALIZADOS 031 (read-only copy, 2026-10-14)"
+ "source": "Google Drive FINALIZADOS 031 (read-only copy, 2026-10-14)",
+ "hidden": true,
+ "hiddenReason": "Near-duplicate narration of 014; hidden by Mauricio 2026-10-14"
 }

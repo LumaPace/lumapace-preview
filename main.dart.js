@@ -29401,7 +29401,8 @@ c4=B.aq
 s=6
 return A.i(a4.NX("assets/content/"+a5),$async$FY)
 case 6:a6=c3.a(c4.jy(c8,null))
-n=A.beV(a6)
+if(J.d(a6.h(0,"hidden"),!0)){s=4
+break}n=A.beV(a6)
 m=B.c.a0(a5,0,B.c.NP(a5,"/")+1)
 s=n.Q!=null?7:8
 break
