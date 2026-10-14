@@ -1,500 +1,495 @@
 {
  "source": "faster-whisper small.en word timestamps aligned to script phrases",
- "matchedWords": 744,
- "scriptWords": 769,
+ "matchedWords": 762,
+ "scriptWords": 767,
  "cues": [
   {
    "start": 0,
-   "end": 4.94,
+   "end": 4.96,
    "text": "Hi, and welcome."
   },
   {
-   "start": 4.79,
-   "end": 10.34,
+   "start": 4.81,
+   "end": 10.42,
    "text": "I'm happy you made the choice to meditate today."
   },
   {
-   "start": 10.19,
-   "end": 19.5,
+   "start": 10.27,
+   "end": 19.46,
    "text": "Before we start, just take a second to get yourself comfortable."
   },
   {
-   "start": 19.35,
-   "end": 22.94,
+   "start": 19.31,
+   "end": 22.96,
    "text": "Maybe you\u2019re sitting on the couch."
   },
   {
-   "start": 22.79,
+   "start": 22.81,
    "end": 28.04,
    "text": "Maybe you\u2019re on a pillow or lying down on your bed."
   },
   {
    "start": 27.89,
-   "end": 32.74,
+   "end": 32.82,
    "text": "There\u2019s no right or wrong position here."
   },
   {
-   "start": 32.59,
-   "end": 39.66,
+   "start": 32.67,
+   "end": 39.62,
    "text": "Just choose whatever feels good for you."
   },
   {
-   "start": 39.51,
-   "end": 48.28,
+   "start": 39.47,
+   "end": 48.74,
    "text": "Take a look around you, and then, when you\u2019re ready, let your eyes close."
   },
   {
-   "start": 48.13,
-   "end": 53.4,
+   "start": 48.59,
+   "end": 53.56,
    "text": "Or keep them open if that feels more comfortable."
   },
   {
-   "start": 53.25,
-   "end": 59.02,
+   "start": 53.41,
+   "end": 59.06,
    "text": "You don\u2019t have to do anything special right now."
   },
   {
-   "start": 58.87,
-   "end": 64.76,
+   "start": 58.91,
+   "end": 65.56,
    "text": "You don\u2019t have to clear your mind or stop your thoughts."
   },
   {
-   "start": 64.61,
-   "end": 73.82,
+   "start": 65.41,
+   "end": 74.4,
    "text": "Just give yourself a few quiet minutes to slow down."
   },
   {
-   "start": 73.67,
-   "end": 83.18,
+   "start": 74.25,
+   "end": 82.74,
    "text": "Feel the place where your body is touching the surface underneath you, below you."
   },
   {
-   "start": 83.03,
-   "end": 87.26,
+   "start": 82.59,
+   "end": 87.74,
    "text": "Notice that you\u2019re supported."
   },
   {
-   "start": 87.11,
-   "end": 92.56,
+   "start": 87.59,
+   "end": 92.76,
    "text": "Let your shoulders drop a little."
   },
   {
-   "start": 92.41,
-   "end": 96.18,
+   "start": 92.61,
+   "end": 95.4,
    "text": "Relax your hands."
   },
   {
-   "start": 96.03,
-   "end": 101.5,
+   "start": 95.25,
+   "end": 100.7,
    "text": "Let your body be comfortable."
   },
   {
-   "start": 101.35,
-   "end": 109.58,
+   "start": 100.55,
+   "end": 110.0,
    "text": "And now, take a slow breath in\u2026"
   },
   {
-   "start": 109.43,
-   "end": 115.06,
+   "start": 109.85,
+   "end": 115.02,
    "text": "And let it go."
   },
   {
-   "start": 114.91,
-   "end": 118.02,
+   "start": 114.87,
+   "end": 117.94,
    "text": "No need to force anything."
   },
   {
-   "start": 117.87,
-   "end": 121.52,
+   "start": 117.79,
+   "end": 121.86,
    "text": "Just breathe normally."
   },
   {
-   "start": 121.37,
-   "end": 127.68,
+   "start": 121.71,
+   "end": 127.0,
    "text": "Take one more slow breath in\u2026"
   },
   {
-   "start": 127.53,
-   "end": 134.76,
+   "start": 126.85,
+   "end": 134.7,
    "text": "And slowly breathe out."
   },
   {
-   "start": 134.61,
-   "end": 138.02,
+   "start": 134.55,
+   "end": 138.58,
    "text": "Today, we\u2019re going to imagine a peaceful,"
   },
   {
-   "start": 137.87,
-   "end": 154.52,
+   "start": 138.43,
+   "end": 154.4,
    "text": "quiet garden and learn two words we might use when we talk about it: \u201cshadow\u201d and \u201cshade.\u201d"
   },
   {
-   "start": 154.37,
-   "end": 158.44,
+   "start": 154.25,
+   "end": 158.96,
    "text": "Let's begin."
   },
   {
-   "start": 158.29,
-   "end": 162.86,
+   "start": 158.81,
+   "end": 162.66,
    "text": "Imagine, in your mind, a garden."
   },
   {
-   "start": 162.71,
-   "end": 166.02,
+   "start": 162.51,
+   "end": 166.5,
    "text": "It doesn't need to be a real place."
   },
   {
-   "start": 165.87,
-   "end": 173.04,
+   "start": 166.35,
+   "end": 173.58,
    "text": "Simply imagine whatever garden feels peaceful to you, full of soft green plants,"
   },
   {
-   "start": 172.89,
-   "end": 177.54,
+   "start": 173.43,
+   "end": 176.74,
    "text": "and quiet corners to rest."
   },
   {
-   "start": 177.39,
-   "end": 185.86,
+   "start": 176.59,
+   "end": 185.8,
    "text": "Picture yourself sitting somewhere in this garden, comfortable and calm."
   },
   {
-   "start": 185.71,
-   "end": 188.28,
+   "start": 185.65,
+   "end": 188.32,
    "text": "Maybe on a bench."
   },
   {
-   "start": 188.13,
-   "end": 191.18,
+   "start": 188.17,
+   "end": 190.84,
    "text": "Maybe on the grass."
   },
   {
-   "start": 191.03,
-   "end": 194.16,
-   "text": "Wherever feels right."
+   "start": 190.69,
+   "end": 194.54,
+   "text": "Whatever feels right."
   },
   {
-   "start": 194.01,
-   "end": 199.68,
+   "start": 194.39,
+   "end": 199.5,
    "text": "Imagine it\u2019s a very hot, sunny day."
   },
   {
-   "start": 199.53,
-   "end": 205.88,
+   "start": 199.35,
+   "end": 205.72,
    "text": "The sun is strong, and you want to get away from it."
   },
   {
-   "start": 205.73,
-   "end": 210.02,
+   "start": 205.57,
+   "end": 210.0,
    "text": "You might say to a friend, \u201cIt\u2019s too hot."
   },
   {
-   "start": 209.87,
-   "end": 214.02,
+   "start": 209.85,
+   "end": 214.12,
    "text": "Let\u2019s find some shade.\u201d"
   },
   {
-   "start": 213.87,
-   "end": 221.2,
+   "start": 213.97,
+   "end": 221.88,
    "text": "Shade is an area that is protected from the direct sunlight."
   },
   {
-   "start": 221.05,
-   "end": 234.88,
+   "start": 221.73,
+   "end": 234.34,
    "text": "A tree can provide shade, and you can sit or stand in the shade to get away from the sun."
   },
   {
-   "start": 234.73,
-   "end": 238.76,
+   "start": 234.19,
+   "end": 238.78,
    "text": "Look around this garden."
   },
   {
-   "start": 238.61,
-   "end": 244.66,
+   "start": 238.63,
+   "end": 245.44,
    "text": "Imagine that there are lots of plants here that like the shade."
   },
   {
-   "start": 244.51,
-   "end": 253.4,
+   "start": 245.29,
+   "end": 253.94,
    "text": "They grow well because they are protected from the strong sunlight."
   },
   {
-   "start": 253.25,
-   "end": 258.44,
+   "start": 253.79,
+   "end": 258.6,
    "text": "Take a slow breath in\u2026"
   },
   {
-   "start": 258.29,
-   "end": 263.52,
+   "start": 258.45,
+   "end": 264.16,
    "text": "and breathe out."
   },
   {
-   "start": 263.37,
-   "end": 272.34,
+   "start": 264.01,
+   "end": 272.56,
    "text": "Imagine yourself sitting comfortably in the shade of a tree."
   },
   {
-   "start": 272.19,
-   "end": 278.94,
+   "start": 272.41,
+   "end": 278.62,
    "text": "Now, look down at the ground."
   },
   {
-   "start": 278.79,
-   "end": 284.26,
+   "start": 278.47,
+   "end": 284.36,
    "text": "Can you see the dark shape made by the tree?"
   },
   {
-   "start": 284.11,
-   "end": 289.44,
+   "start": 284.21,
+   "end": 289.9,
    "text": "That is its shadow."
   },
   {
-   "start": 289.29,
-   "end": 297.22,
+   "start": 289.75,
+   "end": 297.7,
    "text": "A shadow is a dark shape made when something blocks the sunlight."
   },
   {
-   "start": 297.07,
-   "end": 302.38,
+   "start": 297.55,
+   "end": 302.14,
    "text": "You can see your shadow on the ground."
   },
   {
-   "start": 302.23,
-   "end": 304.2,
-   "text": "Maybe you\u2019re standing next to a friend,"
+   "start": 301.99,
+   "end": 307.46,
+   "text": "Maybe you\u2019re standing next to a friend, and notice that your shadow is taller than theirs."
   },
   {
-   "start": 304.05,
-   "end": 308.92,
-   "text": "and you notice that your shadow is taller than theirs."
-  },
-  {
-   "start": 308.77,
+   "start": 307.31,
    "end": 312.5,
    "text": "You could say, \u201cLook at my shadow!"
   },
   {
    "start": 312.35,
-   "end": 317.38,
+   "end": 317.4,
    "text": "It\u2019s taller than yours.\u201d"
   },
   {
-   "start": 317.23,
-   "end": 322.96,
+   "start": 317.25,
+   "end": 323.26,
    "text": "Shade is a cool area protected from direct sunlight,"
   },
   {
-   "start": 322.81,
-   "end": 332.76,
+   "start": 323.11,
+   "end": 333.35,
    "text": "while a shadow is the dark shape made when something blocks the light."
   },
   {
-   "start": 332.61,
-   "end": 337.86,
+   "start": 333.2,
+   "end": 337.96,
    "text": "Take another slow breath in\u2026"
   },
   {
-   "start": 337.71,
-   "end": 344.54,
+   "start": 337.81,
+   "end": 344.16,
    "text": "and breathe out."
   },
   {
-   "start": 344.39,
-   "end": 350.06,
-   "text": "You\u2019re sitting in the shade, protected from the sun,"
+   "start": 344.01,
+   "end": 350.2,
+   "text": "You are sitting in the shade, protected from the sun,"
   },
   {
-   "start": 349.91,
-   "end": 357.62,
+   "start": 350.05,
+   "end": 357.6,
    "text": "while the tree\u2019s shadow rests on the ground beside you."
   },
   {
-   "start": 357.47,
-   "end": 362.0,
+   "start": 357.45,
+   "end": 360.74,
    "text": "Notice how peaceful this garden feels."
   },
   {
-   "start": 361.85,
-   "end": 363.84,
+   "start": 360.59,
+   "end": 363.72,
    "text": "No rush."
   },
   {
-   "start": 363.69,
-   "end": 365.96,
+   "start": 363.57,
+   "end": 366.02,
    "text": "No noise."
   },
   {
-   "start": 365.81,
-   "end": 373.46,
+   "start": 365.87,
+   "end": 373.5,
    "text": "Just quiet green plants, gentle sunlight, and this comfortable,"
   },
   {
-   "start": 373.31,
-   "end": 378.2,
+   "start": 373.35,
+   "end": 378.56,
    "text": "cool shade surrounding you."
   },
   {
-   "start": 378.05,
-   "end": 384.46,
+   "start": 378.41,
+   "end": 384.96,
    "text": "Let your body feel just as calm as this garden."
   },
   {
-   "start": 384.31,
-   "end": 393.08,
+   "start": 384.81,
+   "end": 392.46,
    "text": "Let your breath move just as gently as the breeze through the leaves."
   },
   {
-   "start": 392.93,
-   "end": 397.46,
-   "text": "Take a slow breath in\u2026"
+   "start": 392.31,
+   "end": 394.64,
+   "text": "Take a breath in\u2026"
   },
   {
-   "start": 397.31,
-   "end": 402.84,
+   "start": 394.49,
+   "end": 403.38,
    "text": "and let it out slowly."
   },
   {
-   "start": 402.69,
-   "end": 410.14,
+   "start": 403.23,
+   "end": 409.92,
    "text": "This garden will always be here, whenever you need it."
   },
   {
-   "start": 409.99,
-   "end": 416.22,
+   "start": 409.77,
+   "end": 415.94,
    "text": "A quiet place to sit, protected in the shade,"
   },
   {
-   "start": 416.07,
-   "end": 422.5,
+   "start": 415.79,
+   "end": 421.82,
    "text": "watching the shadows move gently across the ground."
   },
   {
-   "start": 422.35,
-   "end": 429.76,
+   "start": 421.67,
+   "end": 429.94,
    "text": "Let these gentle words settle into your mind."
   },
   {
-   "start": 429.61,
-   "end": 437.62,
+   "start": 429.79,
+   "end": 437.68,
    "text": "I can rest in this quiet, peaceful place."
   },
   {
-   "start": 437.47,
-   "end": 445.56,
+   "start": 437.53,
+   "end": 445.54,
    "text": "I am protected, like sitting in gentle shade."
   },
   {
-   "start": 445.41,
-   "end": 455.6,
+   "start": 445.39,
+   "end": 456.82,
    "text": "I am calm, like a shadow resting quietly on the ground."
   },
   {
-   "start": 455.45,
-   "end": 459.76,
+   "start": 456.67,
+   "end": 459.6,
    "text": "I am safe."
   },
   {
-   "start": 459.61,
-   "end": 464.2,
+   "start": 459.45,
+   "end": 464.04,
    "text": "I am at peace."
   },
   {
-   "start": 464.05,
-   "end": 472.42,
+   "start": 463.89,
+   "end": 472.36,
    "text": "Take another slow breath, and let these words settle a little deeper."
   },
   {
-   "start": 472.27,
-   "end": 478.92,
+   "start": 472.21,
+   "end": 478.64,
    "text": "Stay here for a while longer, resting in this imagined garden,"
   },
   {
-   "start": 478.77,
-   "end": 487.52,
+   "start": 478.49,
+   "end": 487.62,
    "text": "feeling the shade around you, and watching the shadow move softly nearby."
   },
   {
-   "start": 487.37,
-   "end": 493.32,
+   "start": 487.47,
+   "end": 493.26,
    "text": "There's no need to rush away from this feeling."
   },
   {
-   "start": 493.17,
-   "end": 505.42,
+   "start": 493.11,
+   "end": 505.08,
    "text": "Let yourself stay here, calm and comfortable, for as long as you'd like."
   },
   {
-   "start": 505.27,
-   "end": 516.0,
-   "text": "When you feel ready, begin to bring your awareness back to the room around you gently."
+   "start": 504.93,
+   "end": 516.69,
+   "text": "When you feel ready, begin to bring awareness back to the room around you gently."
   },
   {
-   "start": 515.85,
-   "end": 520.7,
+   "start": 516.54,
+   "end": 520.76,
    "text": "Notice the surface beneath you."
   },
   {
-   "start": 520.55,
-   "end": 526.45,
+   "start": 520.61,
+   "end": 529.59,
    "text": "Notice your breath, still slow, still steady."
   },
   {
-   "start": 526.3,
-   "end": 544.37,
+   "start": 529.44,
+   "end": 536.26,
    "text": "Let your fingers move first, just slightly."
   },
   {
-   "start": 544.22,
-   "end": 546.16,
+   "start": 536.11,
+   "end": 538.98,
    "text": "Then your toes."
   },
   {
-   "start": 546.01,
-   "end": 546.66,
+   "start": 538.83,
+   "end": 546.82,
    "text": "Small movements, gentle and unhurried."
   },
   {
-   "start": 546.21,
-   "end": 551.74,
+   "start": 546.67,
+   "end": 551.42,
    "text": "Take your time returning."
   },
   {
-   "start": 551.59,
-   "end": 557.24,
+   "start": 551.27,
+   "end": 557.06,
    "text": "There's no hurry."
   },
   {
-   "start": 557.09,
-   "end": 569.7,
+   "start": 556.91,
+   "end": 569.64,
    "text": "Whenever you're ready, let your eyes open softly, taking in the light around you."
   },
   {
-   "start": 569.55,
-   "end": 577.68,
+   "start": 569.49,
+   "end": 577.0,
    "text": "Carry this quiet garden with you into the rest of your day."
   },
   {
-   "start": 577.53,
+   "start": 576.85,
    "end": 588.18,
    "text": "Whenever you need a moment of peace, remember this place, this shade, this shadow,"
   },
   {
    "start": 588.03,
-   "end": 599.78,
+   "end": 600.14,
    "text": "resting quietly, always here, waiting for you to return."
   },
   {
-   "start": 599.63,
-   "end": 604.02,
+   "start": 599.99,
+   "end": 602.9,
    "text": "You are calm."
   },
   {
-   "start": 603.87,
-   "end": 607.7,
+   "start": 602.75,
+   "end": 607.72,
    "text": "You are at peace."
   },
   {
-   "start": 607.55,
+   "start": 607.57,
    "end": 643.0,
    "text": "And you are exactly where you need to be."
   }

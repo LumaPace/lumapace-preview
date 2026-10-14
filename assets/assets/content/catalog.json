@@ -1,24 +1,79 @@
 {
-  "source": "local-pack",
-  "notes": [
-    "Free audio copied from Mauricio Downloads / subway-local-preparation (read-only).",
-    "Garden text+exercises from android-free-player-incident live_free_002.json fixture.",
-    "Subway text+exercises from subway-local-preparation/draft.",
-    "Travel Vocabulary included as premium text-only (live_free_003 fixture); audio not bundled.",
-    "Firebase Storage audio remains protected (403 public); no auth bypass."
-  ],
-  "episodes": [
-    {
-      "id": "002",
-      "path": "episodes/002/episode.json"
-    },
-    {
-      "id": "e8c4ec8f-539a-4cf5-84e7-5458f44db7e6",
-      "path": "episodes/subway/episode.json"
-    },
-    {
-      "id": "003",
-      "path": "episodes/003/episode.json"
-    }
-  ]
+ "source": "local-pack",
+ "notes": [
+  "17 finalized episodes copied read-only from Google Drive FINALIZADOS (2026-10-14); audio bytes unchanged (md5 in episode.json).",
+  "Subway Vocabulary (002 in the Drive index) is PENDING transcript review and is not listed; its audio stays bundled only for the listening check clip (186.6–190.8 s, outside the pending ranges).",
+  "Listening questions for 001/006/009/011/013 are PENDING editorial approval and are not activated. Only approved Practice questions are used.",
+  "Premium audio is not bundled in the web build (no premium bypass)."
+ ],
+ "episodes": [
+  {
+   "id": "002",
+   "path": "episodes/002/episode.json"
+  },
+  {
+   "id": "c006",
+   "path": "episodes/c006/episode.json"
+  },
+  {
+   "id": "c009",
+   "path": "episodes/c009/episode.json"
+  },
+  {
+   "id": "c011",
+   "path": "episodes/c011/episode.json"
+  },
+  {
+   "id": "c013",
+   "path": "episodes/c013/episode.json"
+  },
+  {
+   "id": "c014",
+   "path": "episodes/c014/episode.json"
+  },
+  {
+   "id": "c015",
+   "path": "episodes/c015/episode.json"
+  },
+  {
+   "id": "c016",
+   "path": "episodes/c016/episode.json"
+  },
+  {
+   "id": "c017",
+   "path": "episodes/c017/episode.json"
+  },
+  {
+   "id": "c018",
+   "path": "episodes/c018/episode.json"
+  },
+  {
+   "id": "003",
+   "path": "episodes/003/episode.json"
+  },
+  {
+   "id": "c022",
+   "path": "episodes/c022/episode.json"
+  },
+  {
+   "id": "c026",
+   "path": "episodes/c026/episode.json"
+  },
+  {
+   "id": "c029",
+   "path": "episodes/c029/episode.json"
+  },
+  {
+   "id": "c031",
+   "path": "episodes/c031/episode.json"
+  },
+  {
+   "id": "c032",
+   "path": "episodes/c032/episode.json"
+  },
+  {
+   "id": "c033",
+   "path": "episodes/c033/episode.json"
+  }
+ ]
 }
