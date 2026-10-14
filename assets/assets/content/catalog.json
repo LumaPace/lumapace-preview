@@ -2,7 +2,7 @@
  "source": "local-pack",
  "notes": [
   "31 finalized episodes copied read-only from Google Drive FINALIZADOS (2026-10-14; v22 + v23: 002/004/005/008/010/012/024/030); audio bytes unchanged (md5 in episode.json).",
-  "Subway Vocabulary is now listed as c002 (Drive 002). App id 002 stays Sitting in a Quiet Garden to avoid a clash. The listening-check clip still uses assets/content/episodes/subway/audio.mp3.",
+  "Subway Vocabulary is now listed as c002 (Drive 002). App id 002 stays Sitting in a Quiet Garden to avoid a clash. Its audio is no longer bundled (the listening check now uses Night Rain).",
   "Listening questions for 001/006/009/011/013 are PENDING editorial approval and are not activated. Only approved Practice questions are used.",
   "Premium audio is not bundled in the web build (no premium bypass)."
  ],
