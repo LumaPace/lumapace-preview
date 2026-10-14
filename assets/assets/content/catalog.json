@@ -1,8 +1,8 @@
 {
  "source": "local-pack",
  "notes": [
-  "23 finalized episodes copied read-only from Google Drive FINALIZADOS (2026-10-14; 003/007/020/023/027/028 added in v22); audio bytes unchanged (md5 in episode.json).",
-  "Subway Vocabulary (002 in the Drive index) is PENDING transcript review and is not listed; its audio stays bundled only for the listening check clip (186.6–190.8 s, outside the pending ranges).",
+  "31 finalized episodes copied read-only from Google Drive FINALIZADOS (2026-10-14; v22 + v23: 002/004/005/008/010/012/024/030); audio bytes unchanged (md5 in episode.json).",
+  "Subway Vocabulary is now listed as c002 (Drive 002). App id 002 stays Sitting in a Quiet Garden to avoid a clash. The listening-check clip still uses assets/content/episodes/subway/audio.mp3.",
   "Listening questions for 001/006/009/011/013 are PENDING editorial approval and are not activated. Only approved Practice questions are used.",
   "Premium audio is not bundled in the web build (no premium bypass)."
  ],
@@ -16,20 +16,44 @@
    "path": "episodes/c006/episode.json"
   },
   {
+   "id": "c002",
+   "path": "episodes/c002/episode.json"
+  },
+  {
    "id": "c003",
    "path": "episodes/c003/episode.json"
+  },
+  {
+   "id": "c004",
+   "path": "episodes/c004/episode.json"
+  },
+  {
+   "id": "c005",
+   "path": "episodes/c005/episode.json"
   },
   {
    "id": "c007",
    "path": "episodes/c007/episode.json"
   },
   {
+   "id": "c008",
+   "path": "episodes/c008/episode.json"
+  },
+  {
    "id": "c009",
    "path": "episodes/c009/episode.json"
   },
   {
+   "id": "c010",
+   "path": "episodes/c010/episode.json"
+  },
+  {
    "id": "c011",
    "path": "episodes/c011/episode.json"
+  },
+  {
+   "id": "c012",
+   "path": "episodes/c012/episode.json"
   },
   {
    "id": "c013",
@@ -72,6 +96,10 @@
    "path": "episodes/c023/episode.json"
   },
   {
+   "id": "c024",
+   "path": "episodes/c024/episode.json"
+  },
+  {
    "id": "c026",
    "path": "episodes/c026/episode.json"
   },
@@ -86,6 +114,10 @@
   {
    "id": "c029",
    "path": "episodes/c029/episode.json"
+  },
+  {
+   "id": "c030",
+   "path": "episodes/c030/episode.json"
   },
   {
    "id": "c031",
