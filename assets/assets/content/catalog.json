@@ -1,7 +1,7 @@
 {
  "source": "local-pack",
  "notes": [
-  "17 finalized episodes copied read-only from Google Drive FINALIZADOS (2026-10-14); audio bytes unchanged (md5 in episode.json).",
+  "23 finalized episodes copied read-only from Google Drive FINALIZADOS (2026-10-14; 003/007/020/023/027/028 added in v22); audio bytes unchanged (md5 in episode.json).",
   "Subway Vocabulary (002 in the Drive index) is PENDING transcript review and is not listed; its audio stays bundled only for the listening check clip (186.6–190.8 s, outside the pending ranges).",
   "Listening questions for 001/006/009/011/013 are PENDING editorial approval and are not activated. Only approved Practice questions are used.",
   "Premium audio is not bundled in the web build (no premium bypass)."
@@ -14,6 +14,14 @@
   {
    "id": "c006",
    "path": "episodes/c006/episode.json"
+  },
+  {
+   "id": "c003",
+   "path": "episodes/c003/episode.json"
+  },
+  {
+   "id": "c007",
+   "path": "episodes/c007/episode.json"
   },
   {
    "id": "c009",
@@ -48,6 +56,10 @@
    "path": "episodes/c018/episode.json"
   },
   {
+   "id": "c020",
+   "path": "episodes/c020/episode.json"
+  },
+  {
    "id": "003",
    "path": "episodes/003/episode.json"
   },
@@ -56,8 +68,20 @@
    "path": "episodes/c022/episode.json"
   },
   {
+   "id": "c023",
+   "path": "episodes/c023/episode.json"
+  },
+  {
    "id": "c026",
    "path": "episodes/c026/episode.json"
+  },
+  {
+   "id": "c027",
+   "path": "episodes/c027/episode.json"
+  },
+  {
+   "id": "c028",
+   "path": "episodes/c028/episode.json"
   },
   {
    "id": "c029",
